@@ -1,0 +1,1 @@
+enum AddEditProductType { add, edit }
